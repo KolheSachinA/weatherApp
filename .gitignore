@@ -4,4 +4,3 @@ node_modules/
 
 #Demo
 *.lock.json
-*/package.lock.json
